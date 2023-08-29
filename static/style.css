@@ -80,6 +80,11 @@ h3 {
     line-height: 1;
 }
 
+#homemain .headings h1:hover{
+    color: #000;
+    transition: .9s ease-in-out;
+}
+
 #homelast {
     padding: 4vw 15vw;
 }
